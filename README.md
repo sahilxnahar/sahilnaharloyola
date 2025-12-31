@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**sahilnaharloyola/sahilnaharloyola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 Business Graduate | Real Estate Development | Management & M&A Enthusiast<br><br>I am a business graduate driven by the intersection of real estate, investment, and legal frameworks. Currently, I am overseeing a structural development project for a leading developer, while simultaneously advancing my expertise through a professional course in Management.<br><br>I am deeply passionate about Mergers & Acquisitions (M&A) and the legal structures that govern them. I am actively seeking to collaborate on research papers at the crossroads of Law, Politics, and Real Estate.<br><br>Always looking to stay ahead of the curve, I am currently focused on mastering AI tools and emerging tech trends to optimize business efficiency. Feel free to reach out to discuss market trends, real estate development, or potential research collaborations!
 
